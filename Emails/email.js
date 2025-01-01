@@ -84,7 +84,7 @@
 // main();
 
 
-// email sending code 
+// email sending code -- batching
 
 const nodemailer = require('nodemailer');
 const xlsx = require('xlsx');
